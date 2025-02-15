@@ -1,0 +1,39 @@
+<htmal>
+	<h1>
+	<label>
+	FirstName:
+</label>
+</h1>
+button:
+<input type="button"name Button >
+<br><br>
+file:
+<input type="file">
+<br><br>
+Email:
+<input type="email">
+<br><br>
+Tel:
+<input type="tel" size="10">
+<br><br>
+URL:
+<input type="URL">
+<br><br>
+Reset:
+<input type="Reset">
+<MARQUEE direction="down" behavior="alternate"><h1>
+	welcome meu</MARQUEE></h1>
+<form>
+	<fieldset>
+		<legend>information</legend>
+	</fieldset>
+<input type="text"required>
+<ifrome src="pege URL" width="50" highth="300">
+	</ifrome>
+<form>
+	<fieldset>
+		<legend width="50" highth="300" size="200">information</legend>
+		<fieldset><legend width="50">wadea</fieldset></legend>
+	</fieldset>
+</form>
+</htmal>
